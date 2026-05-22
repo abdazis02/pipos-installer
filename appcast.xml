@@ -4,7 +4,6 @@
 <item>
 <title>Version 1.2.5</title>
 <pubDate>Fri, 22 May 2026 10:00:00 +0900</pubDate>
-<!-- Alamat download ke release GitHub Anda -->
 <enclosure url="https://github.com/abdazis02/pipos-installer/releases/download/v1.2.5/Pipos_Setup_v1.2.5.exe" 
            sparkle:version="1.2.5+2" 
            sparkle:os="windows" 
