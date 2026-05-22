@@ -5,9 +5,9 @@
 <title>Version 1.2.5</title>
 <pubDate>Fri, 22 May 2026 10:00:00 +0900</pubDate>
 <enclosure url="https://github.com/abdazis02/pipos-installer/releases/download/v1.2.5/Pipos_Setup_v1.2.5.exe" 
-           sparkle:version="1.2.5+2" 
+           sparkle:version="1.2.5+3" 
            sparkle:os="windows" 
-           length="16438755" 
+           length="16446158" 
            type="application/octet-stream"/>
 </item>
 </channel>
