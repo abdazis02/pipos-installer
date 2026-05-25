@@ -1,14 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
-<title>PIPos App Updates</title>
-<item>
-<title>Version 1.2.6</title>
-<pubDate>Mon, 25 May 2026 12:30:00 +0900</pubDate>
-<enclosure url="https://github.com/abdazis02/pipos-installer/releases/download/v1.2.6/Pipos_Setup_v1.2.6_build5.exe" 
-           sparkle:version="1.2.6+5" 
-           sparkle:os="windows" 
-           length="16389661" 
-           type="application/octet-stream"/>
-</item>
+    <title>PIPos App Updates</title>
+    <language>en</language>
+    <item>
+        <title>Version 1.2.6</title>
+        <pubDate>Mon, 25 May 2026 12:30:00 +0900</pubDate>
+        <enclosure url="https://github.com/abdazis02/pipos-installer/releases/download/v1.2.6/Pipos_Setup_v1.2.6_build5.exe" 
+                   sparkle:version="1.2.6+5" 
+                   sparkle:os="windows" 
+                   length="16389661" 
+                   type="application/octet-stream"/>
+    </item>
 </channel>
 </rss>
