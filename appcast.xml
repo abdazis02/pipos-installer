@@ -5,11 +5,11 @@
     <language>en</language>
     <item>
         <title>Version 1.2.7</title>
-        <pubDate>Mon, 04 Juni 2026 23:20:00 +0900</pubDate>
-        <enclosure url="https://github.com/abdazis02/pipos-installer/releases/download/v1.2.7/Pipos_Setup_v1.2.7_build9.exe" 
-                   sparkle:version="1.2.7+9" 
+        <pubDate>Mon, 05 Juni 2026 23:20:00 +0900</pubDate>
+        <enclosure url="https://github.com/abdazis02/pipos-installer/releases/download/v1.2.7/Pipos_Setup_v1.2.7_build10.exe" 
+                   sparkle:version="1.2.7+10" 
                    sparkle:os="windows" 
-                   length="16555290" 
+                   length="25687176" 
                    type="application/octet-stream"/>
     </item>
 </channel>
